@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, Im Okocha shaun
 
-<!--
-**okochashaun/okochashaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive Cybersecurity
+I enjoy building practical Cybersecurity project that demonstrate real-word skill in:
+-Penetration testing
+-log analysis
+-malware analysis
+-digital forensics
+-OSINT
+-threat hunting
+-social engineering 
+-vulnerability assessment
+-governance risk and compliance
 
-Here are some ideas to get you started:
+## Projects
+| Project | Description | Respiratory |
+|---------|-------------|-------------|
+| OSINT Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+| Log analysis | Analyzed IIS and windows Event Logs to identify attacks | Coming soon |
+## Skills
+### Networking
+-TCP/IP
+-DNS
+-HTTP
+-SSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Cybersecurity Tools
+-Nmap
+-Wireshark
+-Burp Suite
+-Metasploit
+-Git
+-GitHub
+
+## Certifications
+-ISC2 CC
+-CompTIA Security+ (In Progress)
+## Education
+-NIIT Port Harcourt: Cybersecurity Program
+-Tonye Infosec: Mentorship and Intenship Program
+
+## Contact
+-Email: okochandamzi@gmail.com
+-Phone number: 08142609552
+
